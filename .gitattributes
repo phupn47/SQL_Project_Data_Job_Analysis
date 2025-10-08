@@ -1,0 +1,10 @@
+# Tell GitHub Linguist to detect SQL files
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Optional: Ignore non-code files from language stats
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.md linguist-detectable=false
