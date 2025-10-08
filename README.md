@@ -262,6 +262,8 @@ The analysis identifies the top 10 most optimal skills for data analysts based o
 | 194       | SSIS        | 12            | 106,683              |
 | 233       | Jira        | 20            | 104,918              |
 
+*Table of the most optimal skills for data analyst sorted by salary*
+
 # What I Learned
 Throughout this project, I learned how to work with data in a more advanced and structured way. 
 
