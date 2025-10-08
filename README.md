@@ -276,7 +276,7 @@ Beyond technical skills, this project helped sharpen my **analytical thinking**,
 
 # Conclusions
 ### Insights
-From the analysis, it’s clear that the **data job market** continues to evolve rapidly — blending technical, analytical, and cloud-based skills.
+From the analysis, it’s clear that the **data job market** continues to evolve rapidly, blending technical, analytical, and cloud-based skills.
 
 - **SQL**, **Python**, and **Excel** remain the most in-demand and foundational skills for data analysts.  
 - High-paying roles often require experience with **big data tools** like **PySpark**, **Databricks**, and **Snowflake**, as well as knowledge of **cloud platforms** such as **AWS**, **Azure**, and **GCP**.  
@@ -287,6 +287,6 @@ Overall, success in this field comes from balancing **technical mastery** with *
 ### Closing Thoughts
 This project gave me hands-on experience in exploring real job market data and understanding how each skill contributes to both **salary growth** and **career opportunities**.
 
-I realized that being a great data analyst isn’t just about knowing tools — it’s about knowing **how to use them to create impact**.  
+I realized that being a great data analyst isn’t just about knowing tools, it’s about knowing **how to use them to create impact**.  
 
 Moving forward, I plan to keep improving my SQL and Python skills, explore more **cloud technologies**, and continue building projects that help me apply data analysis to solve real-world problems.
